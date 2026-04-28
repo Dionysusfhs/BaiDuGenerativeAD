@@ -1,0 +1,3 @@
+Model: sasrecf
+Recall@10: 0.0000
+NDCG@10: 0.0000

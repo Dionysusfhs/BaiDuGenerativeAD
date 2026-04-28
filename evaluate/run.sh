@@ -1,0 +1,1 @@
+python evaluate/eval.py --input_path data/sequence_data --output_path evaluate/recommendations --model sasrec
